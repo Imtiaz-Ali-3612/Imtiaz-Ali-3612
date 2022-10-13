@@ -4,7 +4,7 @@ I am Imtiaz Ali. I have strong media and communication professional with a Bache
 
 
 ### 🌱 What do I do and What have I doing ?
- 💻I develop backend with C++.
+ 💻I develop backend with C++, Javascript, Typescript.
  📱 I can make a mobile app with React Native.
  🕸 I have been developing web applications with MERN Stack Technology.
  ☁ I am Working on Cloud Applications.
