@@ -3,11 +3,16 @@
 I am Imtiaz Ali. I have strong media and communication professional with a Bachelor of Science focused in Computer Science  from National university of Computer & Emerging Sciences. I am an experienced developer skilled in C++, Java, Javascript, React Native Development, Full Stack Development,MERN, Javascript and its frameworks. My activities are much beyond my stream of education. 
 
 
-### 🌱 What do I do and What have I doing ?
- 💻I develop backend with C++, Javascript, Typescript.
+### 🌱What mostly am I doing ?
+ 💻I develop applications with C++.
+ 💻I develop applications with Java Spring Boot.
+ 💻I develop applications with React, Nodejs, Mongodb, Express (MERN).
  📱 I can make a mobile app with React Native.
- 🕸 I have been developing web applications with MERN Stack Technology.
- ☁ I am Working on Cloud Applications.
+ ☁ Always learning about cloud AWS, Azure.
+
+
+
+ 
 
 
 ### 📫 How to reach me?
