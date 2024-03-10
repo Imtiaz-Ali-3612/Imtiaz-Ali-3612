@@ -9,12 +9,13 @@ I owe a great interest to Software Development, and I am imprisoned for a lifelo
 
 #### What's new
 - 🌱 I have containerzed the Java application with **Docker** and **Kubernetes**
-- 🍕 I have been learning with **Microservices**.
+- 🍕 I have been learning **Microservices**.
+- 
 
 - 🤝 I am happy to collaborate on **Java** and **Node & React**
 
 - ✍ 
-Write to me for anything related to **Node,Java,JS,React,Docker,HTML/CSS**
+Write to me for anything related to **Node, Java, JS, React, Docker, HTML/CSS**
 
 
 <p>&nbsp</p>
