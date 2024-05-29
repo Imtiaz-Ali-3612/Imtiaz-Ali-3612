@@ -1,6 +1,6 @@
 # Hi, I'm Imtiaz Ali! 👋
 
-I owe a great interest to Software Development, and I am imprisoned for a lifelong learning, solving problems and writing a beautiful piece of code that I never saw before in my projects. 
+Lifelong learning, solving problems and writing a beautiful piece of code. 
 
 #### What I am doing right now ?
 - I am currently trying to clone duoling app [https://github.com/Imtiaz-Ali-3612/duo-clone].
