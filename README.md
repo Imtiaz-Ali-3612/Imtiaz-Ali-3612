@@ -3,7 +3,6 @@
 Lifelong learning, solving problems and writing a beautiful piece of code. 
 
 #### What I am doing right now ?
-- I am currently trying to clone duoling app [https://github.com/Imtiaz-Ali-3612/duo-clone].
 - Learning NextJs.
 - Improving frontend skills.
 
