@@ -1,46 +1,75 @@
 # Hi, I'm Imtiaz Ali! 👋
 
-Lifelong learning, solving problems and writing a beautiful piece of code. 
+🚀 A passionate Software Engineer who loves solving real-world problems, writing clean code, and constantly learning.
 
-#### What I am doing right now ?
-- Learning NextJs.
-- Improving frontend skills.
+---
 
+## 🔭 What I’m Doing Right Now
 
-#### What I use ! 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,express,react,c,)](https://skillicons.dev)
+- 🌐 Learning **Next.js** to build better, faster web applications.
+- 🎯 Sharpening my **frontend development** skills with modern UI/UX principles.
+- 📚 Exploring **Microservices** architecture with **Java** and **Node.js**.
+- 🧠 Improving my **German** (A2 level) – Sprichst du Deutsch? Lass uns connecten!
 
-<p>&nbsp</p>
+---
 
-#### What's new
-- 🌱 I have containerzed the Java application with **Docker** and **Kubernetes**
-- 🍕 I have been learning **Microservices**.
-- 🤝 I am happy to collaborate on **Java** and **Node & React**
-- ✍ Write to me for anything related to **Node, Java, JS, React, Docker, HTML/CSS**
+## 💻 What I Work With
 
+### Languages & Frameworks
 
-<p>&nbsp</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,express,c,cpp,html,css)](https://skillicons.dev)
 
+### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,mongodb,mysql,graphql,redis)](https://skillicons.dev)
 
-<p>&nbsp</p>
+---
 
+## 🧩 What I’ve Been Up To
 
+- 🐳 Containerized a Java application using **Docker** and deployed it on **Kubernetes**.
+- 💬 Built interactive dashboards using **React**, **Mapbox**, and **Cypress** for testing.
+- ⚙ Developed and deployed **RESTful** and **GraphQL** APIs with **Node.js**.
+- 📈 Optimized backend APIs, reducing frontend load times by up to **30%**.
+- 🔧 Integrated **CI/CD pipelines** with GitLab for automated deployments.
 
+---
 
+## 🤝 Let’s Collaborate!
 
-### 📫 How to reach me?
+I'm open to collaborations on:
 
-feel free to reachout if you want to code/learn along.
+- 🧠 Backend and API design with **Node.js** or **Java**
+- 🎨 Frontend projects with **React.js** and **Next.js**
+- ☸️ DevOps practices using **Docker**, **Kubernetes**, and GitLab CI/CD
 
+Feel free to reach out if you're working on something cool or just want to pair program.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-ali3612/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imtiaz_ali_123](https://twitter.com/ImtiazA47805538))
+---
 
-<!-- Footer -->
-<p align="center">🔨 Thanks for visiting my profile! Check out my repositories and let's connect! 🚀</p>
+## 📫 How to Reach Me
 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-ali3612/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ImtiazA47805538)
+- 📧 Email: imtiaz.ali.3612@gmail.com  
+- 📍 Based in Bamberg, Germany 🇩🇪
 
+---
 
-- Feel free to reach out
+## 📂 Featured Repositories
+
+Take a look at some of my projects in:
+
+- 💳 **FinTech Systems** – Experience with digital banking & bill payment integrations.
+- 🗺️ **Map-based Dashboards** – Custom markers, layers & heatmaps with Mapbox.
+- 🛠️ **CI/CD & DevOps** – GitLab pipelines and k8s deployment for Node.js & Java apps.
+
+---
+
+## ⚡ Fun Fact
+
+> “Learning to write programs stretches your mind and helps you think better.” – Bill Gates
+
+---
+
+<p align="center">🔨 Thanks for visiting my profile! Check out my repositories and let’s connect! 🚀</p>
