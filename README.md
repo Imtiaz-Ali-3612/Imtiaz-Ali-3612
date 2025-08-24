@@ -17,11 +17,11 @@
 
 ### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,express,c,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,express,c,cpp,html,css)]()
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,mongodb,mysql,graphql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,mongodb,mysql,graphql,redis)]()
 
 ---
 
