@@ -6,12 +6,11 @@
 
 ## 🔭 What I’m Doing Right Now
 
-- 🌐 Learning **Next.js** to build better, faster web applications.
+- 🧩 Working on my **Master's thesis**: Designing a **human-AI system** to analyze and retrieve information using **RAG (Retrieval-Augmented Generation)** and **LLMs** for knowledge-driven insights.
 - 🦀 Exploring **Rust** for systems programming and high-performance applications.
 - 🎯 Sharpening my **frontend development** skills with modern UI/UX principles.
 - 📚 Exploring **Microservices** architecture with **Java** and **Node.js**.
 - 🧠 Improving my **German** (A2 level) – Sprichst du Deutsch? Lass uns connecten!
-- 🧩 Working on my **Master's thesis**: Designing a **human-AI system** to analyze and retrieve information using **RAG (Retrieval-Augmented Generation)** and **LLMs** for knowledge-driven insights.
 
 ---
 
