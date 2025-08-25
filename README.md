@@ -11,6 +11,7 @@
 - 🎯 Sharpening my **frontend development** skills with modern UI/UX principles.
 - 📚 Exploring **Microservices** architecture with **Java** and **Node.js**.
 - 🧠 Improving my **German** (A2 level) – Sprichst du Deutsch? Lass uns connecten!
+- 🧩 Working on my **Master's thesis**: Designing a **human-AI system** to analyze and retrieve information using **RAG (Retrieval-Augmented Generation)** and **LLMs** for knowledge-driven insights.
 
 ---
 
@@ -18,9 +19,10 @@
 
 ### Languages & Frameworks
 
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
@@ -28,7 +30,7 @@
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 
 ### Tools & Platforms
 
@@ -49,6 +51,7 @@
 - 💬 Built interactive dashboards using **React**, **Mapbox**, and **Cypress** for testing.
 - ⚙ Developed and deployed **RESTful** and **GraphQL** APIs with **Node.js**.
 - 🦀 Started experimenting with **Rust** for efficient systems-level programming.
+- 🧠 Conducting my **Master's thesis** using **RAG** and **LLMs** to design an AI system that helps analyze, retrieve, and interact with knowledge effectively.
 - 📈 Optimized backend APIs, reducing frontend load times by up to **30%**.
 - 🔧 Integrated **CI/CD pipelines** with GitLab for automated deployments.
 
@@ -61,6 +64,7 @@ I'm open to collaborations on:
 - 🧠 Backend and API design with **Node.js**, **Java**, or **Rust**
 - 🎨 Frontend projects with **React.js** and **Next.js**
 - ☸️ DevOps practices using **Docker**, **Kubernetes**, and GitLab CI/CD
+- 🤖 AI-powered projects leveraging **RAG** and **LLMs**
 
 Feel free to reach out if you're working on something cool or just want to pair program.
 
