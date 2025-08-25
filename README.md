@@ -7,6 +7,7 @@
 ## 🔭 What I’m Doing Right Now
 
 - 🌐 Learning **Next.js** to build better, faster web applications.
+- 🦀 Exploring **Rust** for systems programming and high-performance applications.
 - 🎯 Sharpening my **frontend development** skills with modern UI/UX principles.
 - 📚 Exploring **Microservices** architecture with **Java** and **Node.js**.
 - 🧠 Improving my **German** (A2 level) – Sprichst du Deutsch? Lass uns connecten!
@@ -17,11 +18,28 @@
 
 ### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,express,c,cpp,html,css)]()
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,mongodb,mysql,graphql,redis)]()
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 
 ---
 
@@ -30,6 +48,7 @@
 - 🐳 Containerized a Java application using **Docker** and deployed it on **Kubernetes**.
 - 💬 Built interactive dashboards using **React**, **Mapbox**, and **Cypress** for testing.
 - ⚙ Developed and deployed **RESTful** and **GraphQL** APIs with **Node.js**.
+- 🦀 Started experimenting with **Rust** for efficient systems-level programming.
 - 📈 Optimized backend APIs, reducing frontend load times by up to **30%**.
 - 🔧 Integrated **CI/CD pipelines** with GitLab for automated deployments.
 
@@ -39,7 +58,7 @@
 
 I'm open to collaborations on:
 
-- 🧠 Backend and API design with **Node.js** or **Java**
+- 🧠 Backend and API design with **Node.js**, **Java**, or **Rust**
 - 🎨 Frontend projects with **React.js** and **Next.js**
 - ☸️ DevOps practices using **Docker**, **Kubernetes**, and GitLab CI/CD
 
